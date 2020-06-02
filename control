@@ -3,7 +3,7 @@ Name: TweetShift
 Pre-Depends: firmware (>= 10.0)
 Conflicts: com.dave1482.tweetshift
 Depends: mobilesubstrate
-Version: 0.0.1-beta2005212137
+Version: 0.0.2-beta2006021055
 Architecture: iphoneos-arm
 Description: BETA! Change Twitter Accent Color easily!
 Maintainer: Dave1482 <dave1482@dave1482.com>

@@ -25,24 +25,24 @@
 		<dict>
 			<key>cell</key>
 			<string>PSSliderCell</string>
-			<key>showValue</key>
-			<true/>
 			<key>default</key>
 			<integer>56</integer>
-			<key>isSegmented</key>
-			<true/>
-			<key>segmentCount</key>
-			<integer>255</integer>
-			<key>min</key>
-			<integer>0</integer>
-			<key>max</key>
-			<integer>255</integer>
 			<key>defaults</key>
 			<string>com.dave1482.tweetshift</string>
+			<key>isSegmented</key>
+			<true/>
 			<key>key</key>
 			<string>leRed</string>
 			<key>label</key>
 			<string>Red</string>
+			<key>max</key>
+			<integer>255</integer>
+			<key>min</key>
+			<integer>0</integer>
+			<key>segmentCount</key>
+			<integer>255</integer>
+			<key>showValue</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -53,24 +53,24 @@
 		<dict>
 			<key>cell</key>
 			<string>PSSliderCell</string>
-			<key>showValue</key>
-			<true/>
 			<key>default</key>
 			<integer>161</integer>
-			<key>isSegmented</key>
-			<true/>
-			<key>segmentCount</key>
-			<integer>255</integer>
-			<key>min</key>
-			<integer>0</integer>
-			<key>max</key>
-			<integer>255</integer>
 			<key>defaults</key>
 			<string>com.dave1482.tweetshift</string>
+			<key>isSegmented</key>
+			<true/>
 			<key>key</key>
 			<string>leGreen</string>
 			<key>label</key>
 			<string>Green</string>
+			<key>max</key>
+			<integer>255</integer>
+			<key>min</key>
+			<integer>0</integer>
+			<key>segmentCount</key>
+			<integer>255</integer>
+			<key>showValue</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -81,24 +81,36 @@
 		<dict>
 			<key>cell</key>
 			<string>PSSliderCell</string>
-			<key>showValue</key>
-			<true/>
 			<key>default</key>
 			<integer>243</integer>
-			<key>isSegmented</key>
-			<true/>
-			<key>segmentCount</key>
-			<integer>255</integer>
-			<key>min</key>
-			<integer>0</integer>
-			<key>max</key>
-			<integer>255</integer>
 			<key>defaults</key>
 			<string>com.dave1482.tweetshift</string>
+			<key>isSegmented</key>
+			<true/>
 			<key>key</key>
 			<string>leBlue</string>
 			<key>label</key>
 			<string>Blue</string>
+			<key>max</key>
+			<integer>255</integer>
+			<key>min</key>
+			<integer>0</integer>
+			<key>segmentCount</key>
+			<integer>255</integer>
+			<key>showValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>respring</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
 		</dict>
 	</array>
 	<key>title</key>

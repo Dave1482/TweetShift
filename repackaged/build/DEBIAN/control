@@ -10,4 +10,4 @@ Author: Dave1482 <dave1482@dave1482.com>
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
 compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Version: 0.0.1-beta2005212137
+Version: 0.0.2-beta2006021055
