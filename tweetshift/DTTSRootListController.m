@@ -9,8 +9,8 @@
 
 	return _specifiers;
 }
-/* -(void)respring {
+-(void)respring {
          [(SpringBoard *)[UIApplication sharedApplication] _relaunchSpringBoardNow];
       }
-*/
+
 @end
