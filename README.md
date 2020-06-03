@@ -6,6 +6,8 @@
 ### v0.0.2-beta2006021055
 
 * Added Respring Button
+* Removed annoying .DS_Store files
+
 
 ### v0.0.1-beta2005212137
 
