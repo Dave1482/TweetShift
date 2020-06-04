@@ -1,13 +1,13 @@
 Package: com.dave1482.tweetshiftbeta
 Name: TweetShift
-Pre-Depends: firmware (>= 10.0)
+Pre-Depends: firmware (>= 8.0)
 Conflicts: com.dave1482.tweetshift
 Depends: mobilesubstrate
-Version: 0.0.2-beta2006021055
+Version: 0.0.3-beta2006041830
 Architecture: iphoneos-arm
 Description: BETA! Change Twitter Accent Color easily!
 Maintainer: Dave1482 <dave1482@dave1482.com>
 Author: Dave1482 <dave1482@dave1482.com>
 Section: Tweaks
 Icon: file:///Library/PreferenceBundles/TweetShift.bundle/icon.png
-compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
