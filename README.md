@@ -3,6 +3,14 @@
 
 ## Changelog:
 
+### v0.0.3-beta2006041830
+
+* Added armv7s Support
+
+### v0.0.3-beta2006041455
+
+* Added armv7 Support
+
 ### v0.0.2-beta2006021055
 
 * Added Respring Button
